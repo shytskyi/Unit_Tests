@@ -3,7 +3,7 @@ using Moq;
 
 namespace UnitTestProject
 {
-    public class MOQFileService
+    public class MOQFileServiceTest
     {
         [Fact]
         public void FileExists_TruePath_ReturnTrue()

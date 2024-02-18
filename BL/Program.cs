@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("+");
+            int x = -1;
+            int y = -x;
+            Console.WriteLine(y);
         }
     }
 }

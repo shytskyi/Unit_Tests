@@ -3,7 +3,7 @@ using Moq;
 
 namespace UnitTestProject
 {
-    public class MOQEmailService
+    public class MOQEmailServiceTest
     {
         [Fact]
         public void SendEmail_OneArgumentIsEmpty_ReturnExeption()
