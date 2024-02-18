@@ -1,4 +1,4 @@
-﻿namespace BL.MOQ
+﻿namespace BL.MOQ.ContactService
 {
     public interface IContactRepository
     {
@@ -16,7 +16,5 @@
         Task<bool> DeleteContactAsync(Contact contact);
 
         IEnumerable<Contact> BulkUpdate(IEnumerable<Contact> contacts);
-
-
     }
 }

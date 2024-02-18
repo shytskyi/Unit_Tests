@@ -1,4 +1,4 @@
-﻿namespace BL.MOQ
+﻿namespace BL.MOQ.ContactService
 {
     public class Contact
     {

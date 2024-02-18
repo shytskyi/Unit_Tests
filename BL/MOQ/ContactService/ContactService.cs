@@ -1,6 +1,5 @@
-﻿namespace BL.MOQ
+﻿namespace BL.MOQ.ContactService
 {
-
     public class ContactService
     {
         private readonly IContactRepository _contactDataStore;

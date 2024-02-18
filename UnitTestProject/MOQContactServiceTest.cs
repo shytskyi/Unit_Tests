@@ -1,4 +1,4 @@
-﻿using BL.MOQ;
+﻿using BL.MOQ.ContactService;
 using Moq;
 
 namespace UnitTestProject
